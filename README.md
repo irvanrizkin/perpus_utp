@@ -5,4 +5,4 @@ A special type of subroutine called to create an object. It prepares the new obj
 ### Array of Object
 The array elements store the location of the reference variables of the object
 ### Parameter by Object
-a way of collecting a set of parameters into a uni
+a way of collecting a set of parameters into a unit
